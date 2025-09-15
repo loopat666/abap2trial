@@ -11,7 +11,7 @@ abap trial 2023
 
 Blog :
 
-[2023](https://shorturl.at/Uyr5v)
+https://shorturl.at/Uyr5v
 
 Docker Hub:
 
